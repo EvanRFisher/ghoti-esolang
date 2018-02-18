@@ -22,7 +22,7 @@
 hs_err_pid*
 
 #entire bin directory
-bin/*
-bin
+bin/
 .classpath
 .project
+.settings/
